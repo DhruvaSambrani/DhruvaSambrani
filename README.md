@@ -3,13 +3,27 @@
 I'm Dhruva!
 I'm a Physics Student from India who also loves everything Physics, Computers and Physics and Computers :hand_over_mouth:
 
-## What I am doing right now
+## :building_construction:Thing I am doing rn
 
-### 
-1. [BooksApp](https://github.com/IISERM/BooksApp)
-2. [QuantumComputing.jl](https://github.com/DhruvaSambrani/QuantumComputing.jl)
+### Julia 
+1. [:book: BooksApp](https://github.com/IISERM/BooksApp) - Library app using Genie.jl :genie:
+2. [:microscope: QuantumComputing.jl](https://github.com/DhruvaSambrani/QuantumComputing.jl) - Half complete Quantum Computing using States and Operators
+3. :robot: RLNN in Julia
 
 ### IISER Apps
-1. [Website](https://iiserm.github.com)
-2. [Unofficial IISER-M Android App](https://play.google.com/store/apps/details?id=com.dhruva.iiser)
-3. [PaperBuilder](https://iiserm.github.com/PaperBuilder)
+1. [:globe_with_meridians: Website](https://iiserm.github.com)
+2. [:iphone:Unofficial IISER-M Android App](https://play.google.com/store/apps/details?id=com.dhruva.iiser)
+3. [:memo:PaperBuilder](https://iiserm.github.com/PaperBuilder) - Make pretty papers with IISER Logo
+
+## :peacock:Previous work I'm proud of
+1. [:bird:Minivet](http://manjarijain.net/Minivet.html) - The birding App
+
+## Things I'm following currently
+- [Ploto.jl](https://github.com/fonsp/Pluto.jl)
+- [Genie.jl](https://genieframework.com)
+- [MIT-ComputationalThinking](https://computationalthinking.mit.edu/Fall20/)
+
+## My Stats, coz apparently that's a thing...
+
+[![Dhruva's github stats](https://github-readme-stats.vercel.app/api?username=dhruvasambrani&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
