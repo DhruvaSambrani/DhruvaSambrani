@@ -1,3 +1,3 @@
-<body background="#000000">
-  hi
-</body>
+<div style="background-color:grey;">
+  Hi
+</div>
