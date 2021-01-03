@@ -19,11 +19,6 @@ I'm a Physics Student from India who also loves everything Physics, Computers an
 1. [:bird:Minivet](http://manjarijain.net/Minivet.html) - The birding App
 
 ## Things I'm following currently
-- [Ploto.jl](https://github.com/fonsp/Pluto.jl)
+- [Pluto.jl](https://github.com/fonsp/Pluto.jl)
 - [Genie.jl](https://genieframework.com)
 - [MIT-ComputationalThinking](https://computationalthinking.mit.edu/Fall20/)
-
-## My Stats, coz apparently that's a thing...
-
-[![Dhruva's github stats](https://github-readme-stats.vercel.app/api?username=dhruvasambrani&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
