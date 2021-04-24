@@ -20,5 +20,4 @@ I'm a Physics Student from India who also loves everything Physics, Computers an
 
 ## Things I'm following currently
 - [Pluto.jl](https://github.com/fonsp/Pluto.jl)
-- [Genie.jl](https://genieframework.com)
 - [MIT-ComputationalThinking](https://computationalthinking.mit.edu/Fall20/)
