@@ -5,4 +5,4 @@ I'm a Physics Student from India who also loves everything Physics, Computers an
 
 Check out my [website](https://dhruvasambrani.github.io/) and [blog](https://dhruvasambrani.github.io/blog)
 
-Currently doing: My thesis on Quantum Walks
+Currently doing: My PhD at UPB on Gaussian Boson Sampling
